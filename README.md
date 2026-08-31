@@ -1,6 +1,7 @@
 Hi ヾ(≧▽≦*)o
 
-Yuki Akai
+Yuki Akai,
+
 Backend / TypeScript Engineer
 
 I build maintainable backend systems, developer tooling,
